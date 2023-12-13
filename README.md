@@ -1,25 +1,25 @@
 # Cristmas Presents
-## Documentación V 1.0
+## Documentation V 1.0
 
-1. [Introducción](#introducción)	
-2. [Jugabilidad](#jugabildad)	
-3. [Historia](#historia)	
-4. [Arte y diseño](#arte-y-diseño)
-5. [Tecnología](#tecnología)
-6. [Marketing y distribución](#marketing-y-distribución)
-7. [Epílogo](#epilogo)
+1. [Introductionn](#introduction)	
+2. [Gameplay](#gameplay)	
+3. [History](#history)	
+4. [Art and Desing](#art-and-desing)
+5. [Tecnology](#tecnology)
+6. [Marketing and distribution](#marketing-and-distribution)
+7. [Epílog](#epilog)
 
 
 
-## Introducción
-### Título: Santa y el carbón
-### Estudio o equipo de desarrollo: La armada vencible
+## Introduction
+### Títle: Cristmas Presents
+### Deb studio: La armada vencible
 Rober Malou
 Pretherox
 Franco Leiva https://github.com/leiva7
 
-### Género: Plataforma / juego casual
-### Resumen del juego:
+### Genre: Clik and see
+### Sinopsis:
 En este juego, los jugadores ayudan a Santa Claus a colocar los regalos debajo del árbol de Navidad, evitando que el carbón caiga en la cinta transportadora.
 
 
